@@ -1,0 +1,1 @@
+Rör dig som en chackpjäs, bonde, häst, löpare, dam, etc, etc
