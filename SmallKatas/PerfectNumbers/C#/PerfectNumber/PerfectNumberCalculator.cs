@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace PerfectNumber
 {
-    public class Class1
+    public class PerfectNumberCalculator
     {
+        public bool IsPerfectNumber(int number)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
