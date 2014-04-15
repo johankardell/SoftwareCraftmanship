@@ -1,4 +1,11 @@
 <table>
+	<th>
+	<td>Player</td>
+	<td>Game 1</td>
+	<td>Game 2</td>
+	<td>Game 3</td>
+	<td>Sum</td>
+	</th>
 	<tr>
 		<td>Player 1</td>
 		<td>X</td>
