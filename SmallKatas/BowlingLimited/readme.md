@@ -1,4 +1,23 @@
-P1	| X   | \ 3 | 0 2 | (34)
-P2	| X   | 5 2 | 0 0 | (17)
-P3	| 1 3 | 7 3 | 9 1 | (23)
-
+<table>
+	<tr>
+		<td>Player 1</td>
+		<td>X</td>
+		<td>\ 3</td>
+		<td>0 2</td>
+		<td>( =34)</td>
+	</tr>
+	<tr>
+		<td>Player 2</td>
+		<td>X</td>
+		<td>5 2</td>
+		<td>0 0</td>
+		<td>( =17)</td>
+	</tr>
+	<tr>
+		<td>Player 3</td>
+		<td>1 3</td>
+		<td>7 3</td>
+		<td>9 1</td>
+		<td>( =23)</td>
+	</tr>
+</table>
