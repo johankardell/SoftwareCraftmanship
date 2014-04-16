@@ -46,6 +46,19 @@ namespace RomanNumbers.Test
         }
 
         [TestMethod]
+        public void FiveReturnsV()
+        {
+            // Arrange
+            var romanNumberConverter = new RomanNumberConverter();
+
+            // Act
+            var actual = romanNumberConverter.Convert(5);
+
+            // Assert
+            Assert.AreEqual("V", actual, "5 should be translated to V");
+        }
+
+        [TestMethod]
         public void SixReturnsVI()
         {
             // Arrange
