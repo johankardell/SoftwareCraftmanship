@@ -1,0 +1,3 @@
+#Software craftmanship
+
+This repository is the first collection of katas and exercises that will be used in our meetup group called Software craftmanship in Gothenburg (Sweden). Suggestions or ideas are always welcome. If you have been at one of our meetups or just finished a Kata that didn't have a start implementation (or solution) - feel free to fork us and send a pull request and your code might be added or linked.
