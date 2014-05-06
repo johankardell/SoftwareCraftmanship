@@ -135,6 +135,5 @@ namespace PerfectNumber.Test
             // Assert
             Assert.IsFalse(actual, "12411 is not a perfect number");
         }
-
     }
 }
