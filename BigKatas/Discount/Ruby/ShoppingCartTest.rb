@@ -6,6 +6,6 @@ require "./Constants"
 class ShoppingCartTest < Test::Unit::TestCase
 	def testEmptyCartShouldBeZero()
 		cart = ShoppingCart.new
-		assert(cart.Sum(),"should be zero")
+		assert(cart.Sum() == 5,"should be zero")
 	end
-end
+end 

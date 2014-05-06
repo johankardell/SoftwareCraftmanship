@@ -7,5 +7,5 @@ end
 module CustomerType
 	Bronze = 0,
 	Silver = 1,
-	Gold = 1		
+	Gold = 2
 end

@@ -8,6 +8,7 @@ Sommarrea
 Kategorirea
 	- Kategorier (Kläder)
 	- Subkategorier (Strumpor)
+- Att fundera på, kan reor kombineras, om ej vilken är det som gäller, billigast??
 
 30 minuter senare...
 
