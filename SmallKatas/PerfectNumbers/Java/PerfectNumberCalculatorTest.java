@@ -17,22 +17,21 @@ public class PerfectNumberCalculatorTest extends TestCase {
 
     public void testTenIsNotAPerfectNumber()
     {
-        assertEquals("10 is not a perfect number",true,getActual(10));
+        assertEquals("10 is not a perfect number",false,getActual(10));
     }
 
     public void testTwentyIsNotAPerfectNumber()
     {
-        assertEquals("10 is not a perfect number",true,getActual(20));
+        assertEquals("20 is not a perfect number",false,getActual(20));
     }
 
-    public void  testTwentyEightIsAPerfectNumber()
+    public void testTwentyEightIsAPerfectNumber()
     {
         assertEquals("28 is a perfect number",true, getActual(28));
     }
 
     public void testOneHundredTwelveIsNotAPerfectNumber()
     {
-
       assertEquals("112 is not a perfect number",false, getActual(112));
     }
 
@@ -55,6 +54,5 @@ public class PerfectNumberCalculatorTest extends TestCase {
     {
       assertEquals("12411 is not a perfect number",false,getActual(12411));
     }
-
 }
 
